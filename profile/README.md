@@ -19,7 +19,7 @@ Focused on MERN stack mastery and modern frontend technologies.
 
 
 ## Let's Connect
-- Personal GitHub: [@your-username](https://github.com/your-sohelrana6105)  
+- Personal GitHub: [@your-username](https://github.com/sohelrana6105)  
 - Learning in public – feel free to star/fork/explore!
 
 Happy coding! 🌱
