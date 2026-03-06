@@ -6,8 +6,8 @@ Focused on MERN stack mastery and modern frontend technologies.
 
 ## Current Focus (2026)
 - JavaScript fundamentals & advanced patterns
-- React (hooks, context, state management)
-- Next.js (SSR, API routes, app router)
+- React 
+- Next.js 
 - Tailwind CSS (responsive designs, component systems)
 - Full-stack experiments (Node/Express/MongoDB integration)
 
